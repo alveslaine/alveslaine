@@ -1,11 +1,13 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Elaine!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Elaine!" alt="Typing SVG">
   </a>
 </p>
 
 <div align="center">
-  Planejo me tornar uma profissional da área de desenvolvimento web, sigo em constante aprendizado e aprimoramento!
+  Planejo me tornar uma profissional da área de desenvolvimento web
+  
+  Sigo em constante aprendizado e aprimoramento!
 </div>
 
 <div align="center">
@@ -22,11 +24,9 @@
 
   <p></p>
   <div align="center"> 
-  <a href="https://www.instagram.com/mateus_amoavida_2/">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:er3734343@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-  <a href="https://www.linkedin.com/in/mateus-de-souza-devjava/">
+  <a href="https://www.linkedin.com/in/elaine-alves-silva-928a24208">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>

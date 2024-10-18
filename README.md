@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+sou+a+Elaine!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Elaine!" alt="Typing SVG">
   </a>
 </p>
 
 <div align="center">
-  Planejo ser uma profissional da área de desenvolvimento web e estou estudando para isso!
+  Planejo me tornar uma profissional da área de desenvolvimento web, sigo em constante aprendizado e aprimoramento!
 </div>
 
 <div align="center">

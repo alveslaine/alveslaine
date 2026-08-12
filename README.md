@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  Desenvoledora Full Stack Java, sempre buscando novas oportunidades de prendizado e aprimoramento!
+  Desenvoledora Full Stack Java, sempre buscando novas oportunidades de aprendizado e aprimoramento!
 </div>
 
   <div style="display: inline_block" align="center"><br>

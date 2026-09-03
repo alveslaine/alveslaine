@@ -10,10 +10,7 @@
         srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=500&color=000000&random=false&width=325&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Elaine!"
       />
       
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=500&color=000000&random=false&width=325&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Elaine!"
-        alt="Olá, eu sou a Elaine!"
-      />
+      
     </picture>
   </a>
 </p>
@@ -36,7 +33,7 @@ Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades 
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tailwind" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
+  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">

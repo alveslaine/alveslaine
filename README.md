@@ -3,7 +3,7 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=500&color=FFFFFF&random=false&width=325&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Elaine!"
+        srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=25&pause=500&color=FFFFFF&random=false&width=325&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Elaine!"
       />
       <source
         media="(prefers-color-scheme: light)"

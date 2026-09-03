@@ -3,17 +3,18 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=325&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Elaine!" alt="Typing SVG">
   </a>
 </p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=325&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Elaine!" alt="Typing SVG">
-  </a>
-</p>
+
 <div align="center">
 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou concluindo o Bootcamp de Desenvolvimento Full Stack Java da Generation Brasil.
-Tenho experiência com desenvolvimento utilizando Java, Spring, bancos de dados e tecnologias para desenvolvimento Front-end, sempre buscando aprender e aprimorar minhas habilidades.
+Tenho conhecimentos em desenvolvimento Back-end e Front-end, com foco em Java, Spring, React, TypeScript e bancos de dados. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software.
 </div>
 
 <br>
+<p align="center">
+  <img src="https://ik.imagekit.io/dy8ytykq9/foto_dev.png" alt="Imagem ilustrativa" width="700">
+</p>
+<br>
+
 <h2 align="center">💻 Tecnologias e Ferramentas</h2>
 <div align="center">
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,12 +44,16 @@ Tenho experiência com desenvolvimento utilizando Java, Spring, bancos de dados 
 </a>
 </div>
 <br>
+
 <h2 align="center">📊 Linguagens dos meus repositórios</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alveslaine&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais utilizadas">
 </p>
+
 <br>
+
 <h2 align="center">📈 GitHub</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alveslaine&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
 </p>

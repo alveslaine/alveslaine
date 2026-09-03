@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-Sou formada em Análise e Desenvolvimento de Sistemas e atualmente estou concluindo o Bootcamp de Desenvolvimento Full Stack Java da Generation Brasil.<br> 
+Desenvolvedora Full Stack Jr. formada em Análise e Desenvolvimento de Sistemas. <br> 
 Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento de software.
 </div>
 

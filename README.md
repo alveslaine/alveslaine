@@ -11,7 +11,7 @@ Tenho conhecimentos em desenvolvimento Back-end e Front-end, com foco em Java, S
 
 <br>
 <p align="center">
-  <img src="https://ik.imagekit.io/dy8ytykq9/foto_dev.png" alt="Imagem ilustrativa" width="700">
+  <img src="https://ik.imagekit.io/dy8ytykq9/foto_dev.png" alt="Imagem ilustrativa" width="400">
 </p>
 <br>
 
@@ -47,13 +47,6 @@ Tenho conhecimentos em desenvolvimento Back-end e Front-end, com foco em Java, S
 
 <h2 align="center">📊 Linguagens dos meus repositórios</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alveslaine&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais utilizadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alveslaine&layout=donut&theme=dark&hide_border=true" alt="Linguagens mais utilizadas">
 </p>
 
-<br>
-
-<h2 align="center">📈 GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alveslaine&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-</p>
